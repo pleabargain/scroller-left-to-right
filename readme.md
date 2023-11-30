@@ -19,6 +19,7 @@ Start the Application: Load the HTML file in a web browser to start the app.
 Choose a Category: Use the dropdown menu to select a category of words or phrases.
 Adjust Speed: Use the 'Speed Control' slider to increase or decrease the speed of the moving words.
 
+* the questiongame category is by far my favorite
 
 Pause/Resume Animation: Click the 'Pause' button to stop the animation, and click again to resume.
 Clear the Screen: Use the 'Clear' button to remove all words from the screen.
