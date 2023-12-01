@@ -21,6 +21,8 @@ Adjust Speed: Use the 'Speed Control' slider to increase or decrease the speed o
 
 * the questiongame category is by far my favorite
 * constantly editing and adding new content
+* opposites will be my next addition
+* the art of arguing politely requires practice
 
 Pause/Resume Animation: Click the 'Pause' button to stop the animation, and click again to resume.
 Clear the Screen: Use the 'Clear' button to remove all words from the screen.
