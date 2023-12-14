@@ -1,4 +1,8 @@
 # README for "Cliches and One Liners" Web App
+
+# live URL
+https://pleabargain.github.io/scroller-left-to-right/
+
 ## Overview
 This web application, titled "Cliches and One Liners with Dennis Daniels, English Teacher," displays various words and phrases from different categories in an animated fashion across the screen. It's designed as a fun, interactive way to engage with language and cliches.
 
