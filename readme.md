@@ -28,6 +28,7 @@ Choose a Category: Use the dropdown menu to select a category of words or phrase
 Adjust Speed: Use the 'Speed Control' slider to increase or decrease the speed of the moving words.
 
 * the questiongame category is by far my favorite
+* oppposites with examples
 * constantly editing and adding new content
     * opposites
     * topics for arguing
