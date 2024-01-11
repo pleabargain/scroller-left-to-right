@@ -10,6 +10,12 @@ https://pleabargain.github.io/scroller-left-to-right/
 ## Overview
 This web application displays various words and phrases from different categories in an animated fashion across the screen. It's designed as a fun, interactive way to engage with the English language.
 
+# to do
+I really need to get this into a searchable database.
+
+# remember
+* Don't forget the frigging commas!
+
 ## Features
 Dynamic Word Display: Animated display of words and phrases from various categories.
 Category Selection: Users can choose from different categories like cliches, famous movie lines, marketing one-liners, etc.
@@ -29,6 +35,8 @@ Adjust Speed: Use the 'Speed Control' slider to increase or decrease the speed o
 
 * the questiongame category is by far my favorite
 * oppposites with examples
+* five things
+* random life stuff
 * constantly editing and adding new content
     * opposites
     * topics for arguing
