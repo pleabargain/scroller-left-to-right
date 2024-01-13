@@ -37,6 +37,7 @@ Adjust Speed: Use the 'Speed Control' slider to increase or decrease the speed o
 * oppposites with examples
 * five things
 * random life stuff
+* more material for handling arguments
 * constantly editing and adding new content
     * opposites
     * topics for arguing
