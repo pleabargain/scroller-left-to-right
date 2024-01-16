@@ -36,6 +36,7 @@ Adjust Speed: Use the 'Speed Control' slider to increase or decrease the speed o
 * the questiongame category is by far my favorite
 * oppposites with examples
 * five things
+* more business phrases with no object
 * random life stuff
 * more material for handling arguments
 * constantly editing and adding new content
